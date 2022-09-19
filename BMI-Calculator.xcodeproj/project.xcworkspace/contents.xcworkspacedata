@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/khort/Documents/swift/UdemyCourse/BMI-Calculator/BMI-Calculator.xcodeproj">
+      location = "self:..">
    </FileRef>
 </Workspace>
